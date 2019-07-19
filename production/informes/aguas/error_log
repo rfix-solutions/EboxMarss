@@ -1,0 +1,16 @@
+[02-Oct-2018 14:37:53 UTC] PHP Warning:  include(../_qry/db_connect_local.php): failed to open stream: No such file or directory in /home/eboxcl/public_html/production/informes/aguas/informe_detalle_aguas.php on line 14
+[02-Oct-2018 14:37:53 UTC] PHP Warning:  include(../_qry/db_connect_local.php): failed to open stream: No such file or directory in /home/eboxcl/public_html/production/informes/aguas/informe_detalle_aguas.php on line 14
+[02-Oct-2018 14:37:53 UTC] PHP Warning:  include(): Failed opening '../_qry/db_connect_local.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/eboxcl/public_html/production/informes/aguas/informe_detalle_aguas.php on line 14
+[02-Oct-2018 14:37:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/eboxcl/public_html/production/informes/aguas/informe_detalle_aguas.php on line 47
+[02-Oct-2018 14:37:53 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/eboxcl/public_html/production/informes/aguas/informe_detalle_aguas.php on line 47
+[02-Oct-2018 15:13:59 UTC] PHP Warning:  include(../../../_qry/db_connect_local.php): failed to open stream: No such file or directory in /home/eboxcl/public_html/production/informes/aguas/informe_detalle_aguas.php on line 14
+[02-Oct-2018 15:13:59 UTC] PHP Warning:  include(../../../_qry/db_connect_local.php): failed to open stream: No such file or directory in /home/eboxcl/public_html/production/informes/aguas/informe_detalle_aguas.php on line 14
+[02-Oct-2018 15:13:59 UTC] PHP Warning:  include(): Failed opening '../../../_qry/db_connect_local.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/eboxcl/public_html/production/informes/aguas/informe_detalle_aguas.php on line 14
+[02-Oct-2018 15:13:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/eboxcl/public_html/production/informes/aguas/informe_detalle_aguas.php on line 63
+[02-Oct-2018 15:13:59 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/eboxcl/public_html/production/informes/aguas/informe_detalle_aguas.php on line 63
+[02-Oct-2018 12:22:31 America/Santiago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/eboxcl/public_html/production/informes/aguas/informe_detalle_aguas.php on line 65
+[02-Oct-2018 12:22:39 America/Santiago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/eboxcl/public_html/production/informes/aguas/informe_detalle_aguas.php on line 65
+[02-Oct-2018 12:22:41 America/Santiago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/eboxcl/public_html/production/informes/aguas/informe_detalle_aguas.php on line 65
+[02-Oct-2018 12:23:25 America/Santiago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/eboxcl/public_html/production/informes/aguas/informe_detalle_aguas.php on line 65
+[02-Oct-2018 12:25:29 America/Santiago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/eboxcl/public_html/production/informes/aguas/informe_detalle_aguas.php on line 63
+[02-Oct-2018 12:25:42 America/Santiago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/eboxcl/public_html/production/informes/aguas/informe_detalle_aguas.php on line 63

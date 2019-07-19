@@ -1,0 +1,17 @@
+{
+    "protocol": "ftp",
+    "host": "ebox.cl",
+    "port": 21,
+    "user": "eboxcl",
+    "pass": "mCBt169yj3",
+    "promptForPass": false,
+    "remote": "/public_html/platform",
+    "local": "",
+    "secure": false,
+    "secureOptions": null,
+    "connTimeout": 10000,
+    "pasvTimeout": 10000,
+    "keepalive": 10000,
+    "watch": [],
+    "watchTimeout": 500
+}

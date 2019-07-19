@@ -1,0 +1,37 @@
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+<script language="JavaScript">
+function CambiarFormulario(){
+	switch(document.forms[0].LISTA.selectedIndex){
+		case 0:
+      document.forms[0].Texto1.value="";
+			document.forms[0].Texto1.disabled=true;
+			break;
+		case 1:
+      document.forms[0].Texto1.value="";
+			document.forms[0].Texto1.disabled=false;
+			break;
+	}
+}
+
+</script>
+
+<body  onLoad="CambiarFormulario();">
+<form name="form1" method="post" action="">
+  <p>Seleccion:
+    <select name="LISTA" id="LISTA" onChange="CambiarFormulario()">
+      <option selected>Bloqueado</option>
+      <option>Disponible</option>
+
+    </select>
+  </p>
+  <p>Texto1
+    <input name="Texto1" type="text" id="Texto1">
+    <br>
+  </p>
+</form>
+</body>
+</html>

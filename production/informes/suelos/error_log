@@ -1,0 +1,173 @@
+[04-Oct-2018 13:08:51 UTC] PHP Warning:  include(../_qry/db_connect_local.php): failed to open stream: No such file or directory in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos.php on line 14
+[04-Oct-2018 13:08:51 UTC] PHP Warning:  include(../_qry/db_connect_local.php): failed to open stream: No such file or directory in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos.php on line 14
+[04-Oct-2018 13:08:51 UTC] PHP Warning:  include(): Failed opening '../_qry/db_connect_local.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos.php on line 14
+[04-Oct-2018 13:08:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos.php on line 63
+[04-Oct-2018 13:08:51 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos.php on line 63
+[04-Oct-2018 13:09:41 UTC] PHP Warning:  include(../_qry/db_connect_local.php): failed to open stream: No such file or directory in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos.php on line 14
+[04-Oct-2018 13:09:41 UTC] PHP Warning:  include(../_qry/db_connect_local.php): failed to open stream: No such file or directory in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos.php on line 14
+[04-Oct-2018 13:09:41 UTC] PHP Warning:  include(): Failed opening '../_qry/db_connect_local.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos.php on line 14
+[04-Oct-2018 13:09:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos.php on line 47
+[04-Oct-2018 13:09:41 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos.php on line 47
+[04-Oct-2018 15:28:49 UTC] PHP Parse error:  syntax error, unexpected '%' in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos.php on line 315
+[04-Oct-2018 12:29:08 America/Santiago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos.php on line 323
+[04-Oct-2018 12:29:52 America/Santiago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos.php on line 323
+[04-Oct-2018 12:29:56 America/Santiago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos.php on line 323
+[04-Oct-2018 12:31:26 America/Santiago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos.php on line 323
+[04-Oct-2018 12:31:49 America/Santiago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos.php on line 323
+[04-Oct-2018 12:31:52 America/Santiago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos.php on line 323
+[04-Oct-2018 13:56:48 America/Santiago] PHP Warning:  mysqli_query(): Empty query in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos.php on line 647
+[04-Oct-2018 13:56:48 America/Santiago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos.php on line 647
+[04-Oct-2018 22:17:52 America/Santiago] PHP Warning:  mysqli_query(): Empty query in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos.php on line 752
+[04-Oct-2018 22:17:52 America/Santiago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos.php on line 752
+[14-Oct-2018 16:15:14 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ')' in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php on line 59
+[14-Oct-2018 16:15:58 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php on line 47
+[14-Oct-2018 13:16:18 America/Santiago] PHP Warning:  require(../../vendors/fpdf/fpdf.php): failed to open stream: No existe el fichero o el directorio in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php on line 49
+[14-Oct-2018 13:16:18 America/Santiago] PHP Warning:  require(../../vendors/fpdf/fpdf.php): failed to open stream: No existe el fichero o el directorio in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php on line 49
+[14-Oct-2018 13:16:18 America/Santiago] PHP Fatal error:  require(): Failed opening required '../../vendors/fpdf/fpdf.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php on line 49
+[14-Oct-2018 13:55:02 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined method FPDF::BasicTable() in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php:155
+Stack trace:
+#0 {main}
+  thrown in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php on line 155
+[14-Oct-2018 13:55:34 America/Santiago] PHP Fatal error:  Class 'FPDF' not found in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php on line 46
+[14-Oct-2018 13:55:50 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined method FPDF::BasicTable() in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php:180
+Stack trace:
+#0 {main}
+  thrown in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php on line 180
+[14-Oct-2018 13:56:31 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined method FPDF::BasicTable() in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php:190
+Stack trace:
+#0 {main}
+  thrown in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php on line 190
+[14-Oct-2018 13:57:14 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined method FPDF::BasicTable() in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php:186
+Stack trace:
+#0 {main}
+  thrown in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php on line 186
+[14-Oct-2018 18:49:08 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php on line 180
+[14-Oct-2018 15:49:20 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/eboxcl/public_html/vendors/fpdf/fpdf.php on line 704
+[14-Oct-2018 15:49:20 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/eboxcl/public_html/vendors/fpdf/fpdf.php on line 704
+[14-Oct-2018 15:49:20 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/eboxcl/public_html/vendors/fpdf/fpdf.php on line 704
+[14-Oct-2018 15:49:20 America/Santiago] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/eboxcl/public_html/vendors/fpdf/fpdf.php:704) in /home/eboxcl/public_html/vendors/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/eboxcl/public_html/vendors/fpdf/fpdf.php(1116): FPDF->Error('Some data has a...')
+#1 /home/eboxcl/public_html/vendors/fpdf/fpdf.php(1063): FPDF->_checkoutput()
+#2 /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php(210): FPDF->Output('I', 'Informe.pdf')
+#3 {main}
+  thrown in /home/eboxcl/public_html/vendors/fpdf/fpdf.php on line 271
+[14-Oct-2018 19:05:51 UTC] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR), expecting ')' in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php on line 150
+[14-Oct-2018 16:14:26 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function CellFitScale() on null in /home/eboxcl/public_html/vendors/fpdf/fpdf.php:809
+Stack trace:
+#0 /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php(196): FPDF->BasicTable(Array, Array, 10, 80)
+#1 {main}
+  thrown in /home/eboxcl/public_html/vendors/fpdf/fpdf.php on line 809
+[14-Oct-2018 16:14:43 America/Santiago] PHP Warning:  Division by zero in /home/eboxcl/public_html/vendors/fpdf/fpdf.php on line 84
+[14-Oct-2018 16:14:43 America/Santiago] PHP Warning:  Division by zero in /home/eboxcl/public_html/vendors/fpdf/fpdf.php on line 84
+[14-Oct-2018 16:14:43 America/Santiago] PHP Warning:  Division by zero in /home/eboxcl/public_html/vendors/fpdf/fpdf.php on line 84
+[14-Oct-2018 16:14:43 America/Santiago] PHP Warning:  Division by zero in /home/eboxcl/public_html/vendors/fpdf/fpdf.php on line 84
+[14-Oct-2018 16:14:43 America/Santiago] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/eboxcl/public_html/vendors/fpdf/fpdf.php:84) in /home/eboxcl/public_html/vendors/fpdf/fpdf.php:384
+Stack trace:
+#0 /home/eboxcl/public_html/vendors/fpdf/fpdf.php(1232): FPDF->Error('Some data has a...')
+#1 /home/eboxcl/public_html/vendors/fpdf/fpdf.php(1179): FPDF->_checkoutput()
+#2 /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php(243): FPDF->Output('I', 'Informe.pdf')
+#3 {main}
+  thrown in /home/eboxcl/public_html/vendors/fpdf/fpdf.php on line 384
+[14-Oct-2018 16:16:13 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function CellFitScale() on null in /home/eboxcl/public_html/vendors/fpdf/fpdf.php:809
+Stack trace:
+#0 /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php(196): FPDF->BasicTable(Array, Array, 10, 80)
+#1 {main}
+  thrown in /home/eboxcl/public_html/vendors/fpdf/fpdf.php on line 809
+[14-Oct-2018 16:16:31 America/Santiago] PHP Warning:  Division by zero in /home/eboxcl/public_html/vendors/fpdf/fpdf.php on line 84
+[14-Oct-2018 16:16:31 America/Santiago] PHP Warning:  Division by zero in /home/eboxcl/public_html/vendors/fpdf/fpdf.php on line 84
+[14-Oct-2018 16:16:31 America/Santiago] PHP Warning:  Division by zero in /home/eboxcl/public_html/vendors/fpdf/fpdf.php on line 84
+[14-Oct-2018 16:16:31 America/Santiago] PHP Warning:  Division by zero in /home/eboxcl/public_html/vendors/fpdf/fpdf.php on line 84
+[14-Oct-2018 16:16:31 America/Santiago] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/eboxcl/public_html/vendors/fpdf/fpdf.php:84) in /home/eboxcl/public_html/vendors/fpdf/fpdf.php:384
+Stack trace:
+#0 /home/eboxcl/public_html/vendors/fpdf/fpdf.php(1232): FPDF->Error('Some data has a...')
+#1 /home/eboxcl/public_html/vendors/fpdf/fpdf.php(1179): FPDF->_checkoutput()
+#2 /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php(243): FPDF->Output('I', 'Informe.pdf')
+#3 {main}
+  thrown in /home/eboxcl/public_html/vendors/fpdf/fpdf.php on line 384
+[14-Oct-2018 16:32:50 America/Santiago] PHP Warning:  utf8_decode() expects exactly 1 parameter, 2 given in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php on line 244
+[14-Oct-2018 16:32:50 America/Santiago] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php:244) in /home/eboxcl/public_html/vendors/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/eboxcl/public_html/vendors/fpdf/fpdf.php(1116): FPDF->Error('Some data has a...')
+#1 /home/eboxcl/public_html/vendors/fpdf/fpdf.php(1063): FPDF->_checkoutput()
+#2 /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php(286): FPDF->Output('I', 'Informe.pdf')
+#3 {main}
+  thrown in /home/eboxcl/public_html/vendors/fpdf/fpdf.php on line 271
+[14-Oct-2018 17:14:08 America/Santiago] PHP Parse error:  syntax error, unexpected ',' in /home/eboxcl/public_html/vendors/fpdf/fpdf.php on line 712
+[14-Oct-2018 20:41:26 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ')' in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php on line 504
+[14-Oct-2018 20:42:06 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php on line 503
+[14-Oct-2018 17:44:38 America/Santiago] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php:508) in /home/eboxcl/public_html/vendors/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/eboxcl/public_html/vendors/fpdf/fpdf.php(1120): FPDF->Error('Some data has a...')
+#1 /home/eboxcl/public_html/vendors/fpdf/fpdf.php(1067): FPDF->_checkoutput()
+#2 /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php(521): FPDF->Output('I', 'INF-7643-1.pdf')
+#3 {main}
+  thrown in /home/eboxcl/public_html/vendors/fpdf/fpdf.php on line 271
+[14-Oct-2018 17:46:03 America/Santiago] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php:15) in /home/eboxcl/public_html/vendors/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/eboxcl/public_html/vendors/fpdf/fpdf.php(1120): FPDF->Error('Some data has a...')
+#1 /home/eboxcl/public_html/vendors/fpdf/fpdf.php(1067): FPDF->_checkoutput()
+#2 /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php(521): FPDF->Output('I', 'INF-7643-1.pdf')
+#3 {main}
+  thrown in /home/eboxcl/public_html/vendors/fpdf/fpdf.php on line 271
+[14-Oct-2018 17:46:30 America/Santiago] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php:15) in /home/eboxcl/public_html/vendors/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/eboxcl/public_html/vendors/fpdf/fpdf.php(1120): FPDF->Error('Some data has a...')
+#1 /home/eboxcl/public_html/vendors/fpdf/fpdf.php(1067): FPDF->_checkoutput()
+#2 /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php(521): FPDF->Output('I', 'INF-7643-1.pdf')
+#3 {main}
+  thrown in /home/eboxcl/public_html/vendors/fpdf/fpdf.php on line 271
+[14-Oct-2018 17:46:47 America/Santiago] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php:15) in /home/eboxcl/public_html/vendors/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/eboxcl/public_html/vendors/fpdf/fpdf.php(1120): FPDF->Error('Some data has a...')
+#1 /home/eboxcl/public_html/vendors/fpdf/fpdf.php(1067): FPDF->_checkoutput()
+#2 /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php(514): FPDF->Output('I', 'INF-7643-1.pdf')
+#3 {main}
+  thrown in /home/eboxcl/public_html/vendors/fpdf/fpdf.php on line 271
+[14-Oct-2018 17:47:28 America/Santiago] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php:16) in /home/eboxcl/public_html/vendors/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/eboxcl/public_html/vendors/fpdf/fpdf.php(1120): FPDF->Error('Some data has a...')
+#1 /home/eboxcl/public_html/vendors/fpdf/fpdf.php(1067): FPDF->_checkoutput()
+#2 /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php(515): FPDF->Output('I', 'INF-7643-1.pdf')
+#3 {main}
+  thrown in /home/eboxcl/public_html/vendors/fpdf/fpdf.php on line 271
+[14-Oct-2018 18:02:13 America/Santiago] PHP Warning:  fopen(../../../images/firma_avargas.png): failed to open stream: No existe el fichero o el directorio in /home/eboxcl/public_html/vendors/fpdf/fpdf.php on line 1327
+[14-Oct-2018 18:02:13 America/Santiago] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../../../images/firma_avargas.png in /home/eboxcl/public_html/vendors/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/eboxcl/public_html/vendors/fpdf/fpdf.php(1329): FPDF->Error('Can't open imag...')
+#1 /home/eboxcl/public_html/vendors/fpdf/fpdf.php(953): FPDF->_parsepng('../../../images...')
+#2 /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php(507): FPDF->Image('../../../images...', 0, 0, 0, -171)
+#3 {main}
+  thrown in /home/eboxcl/public_html/vendors/fpdf/fpdf.php on line 271
+[22-Oct-2018 18:02:46 America/Santiago] PHP Warning:  A non-numeric value encountered in /home/eboxcl/public_html/vendors/fpdf/fpdf.php on line 994
+[22-Oct-2018 18:02:46 America/Santiago] PHP Warning:  A non-numeric value encountered in /home/eboxcl/public_html/vendors/fpdf/fpdf.php on line 994
+[22-Oct-2018 18:02:46 America/Santiago] PHP Warning:  A non-numeric value encountered in /home/eboxcl/public_html/vendors/fpdf/fpdf.php on line 994
+[22-Oct-2018 18:02:46 America/Santiago] PHP Warning:  A non-numeric value encountered in /home/eboxcl/public_html/vendors/fpdf/fpdf.php on line 994
+[22-Oct-2018 18:02:46 America/Santiago] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/eboxcl/public_html/vendors/fpdf/fpdf.php:994) in /home/eboxcl/public_html/vendors/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/eboxcl/public_html/vendors/fpdf/fpdf.php(1122): FPDF->Error('Some data has a...')
+#1 /home/eboxcl/public_html/vendors/fpdf/fpdf.php(1069): FPDF->_checkoutput()
+#2 /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php(526): FPDF->Output('I', 'INF-7643-1.pdf')
+#3 {main}
+  thrown in /home/eboxcl/public_html/vendors/fpdf/fpdf.php on line 271
+[22-Oct-2018 18:05:52 America/Santiago] PHP Warning:  Use of undefined constant PDF_CREATOR - assumed 'PDF_CREATOR' (this will throw an Error in a future version of PHP) in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php on line 61
+[22-Oct-2018 18:05:52 America/Santiago] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php:61) in /home/eboxcl/public_html/vendors/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/eboxcl/public_html/vendors/fpdf/fpdf.php(1122): FPDF->Error('Some data has a...')
+#1 /home/eboxcl/public_html/vendors/fpdf/fpdf.php(1069): FPDF->_checkoutput()
+#2 /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php(526): FPDF->Output('I', 'INFORME_LS_LS-1...')
+#3 {main}
+  thrown in /home/eboxcl/public_html/vendors/fpdf/fpdf.php on line 271
+[22-Oct-2018 22:29:21 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined method MYPDF::BasicTable() in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php:251
+Stack trace:
+#0 {main}
+  thrown in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php on line 251
+[23-Oct-2018 01:36:22 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php on line 285
+[23-Oct-2018 01:36:45 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php on line 302
+[22-Oct-2018 22:37:05 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined method MYPDF::BasicTable() in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php:344
+Stack trace:
+#0 {main}
+  thrown in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php on line 344
+[22-Oct-2018 22:39:19 America/Santiago] PHP Warning:  mysqli_query(): Empty query in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php on line 278
+[22-Oct-2018 22:39:19 America/Santiago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php on line 279
+[22-Oct-2018 22:39:19 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eboxcl/public_html/production/informes/suelos/informe_detalle_suelos_res.php:278) in /home/eboxcl/public_html/vendors/tcpdf/tcpdf.php on line 7625

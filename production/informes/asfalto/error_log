@@ -1,0 +1,11 @@
+[22-Oct-2018 19:55:29 UTC] PHP Warning:  A non-numeric value encountered in /home/eboxcl/public_html/vendors/tcpdf/tcpdf.php on line 6963
+[22-Oct-2018 19:55:29 UTC] PHP Warning:  A non-numeric value encountered in /home/eboxcl/public_html/vendors/tcpdf/tcpdf.php on line 6964
+[22-Oct-2018 19:55:29 UTC] PHP Warning:  A non-numeric value encountered in /home/eboxcl/public_html/vendors/tcpdf/tcpdf.php on line 6963
+[22-Oct-2018 19:55:29 UTC] PHP Warning:  A non-numeric value encountered in /home/eboxcl/public_html/vendors/tcpdf/tcpdf.php on line 6964
+[22-Oct-2018 19:55:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eboxcl/public_html/vendors/tcpdf/tcpdf.php:6963) in /home/eboxcl/public_html/vendors/tcpdf/tcpdf.php on line 7625
+[22-Oct-2018 19:56:44 UTC] PHP Warning:  A non-numeric value encountered in /home/eboxcl/public_html/vendors/tcpdf/tcpdf.php on line 6963
+[22-Oct-2018 19:56:44 UTC] PHP Warning:  A non-numeric value encountered in /home/eboxcl/public_html/vendors/tcpdf/tcpdf.php on line 6964
+[22-Oct-2018 19:56:44 UTC] PHP Warning:  A non-numeric value encountered in /home/eboxcl/public_html/vendors/tcpdf/tcpdf.php on line 6963
+[22-Oct-2018 19:56:44 UTC] PHP Warning:  A non-numeric value encountered in /home/eboxcl/public_html/vendors/tcpdf/tcpdf.php on line 6964
+[22-Oct-2018 19:56:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eboxcl/public_html/vendors/tcpdf/tcpdf.php:6963) in /home/eboxcl/public_html/vendors/tcpdf/tcpdf.php on line 7625
+[22-Oct-2018 20:19:36 UTC] PHP Parse error:  syntax error, unexpected '80' (T_LNUMBER), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/eboxcl/public_html/production/informes/asfalto/informe_detalle_asfalto_res.php on line 311
